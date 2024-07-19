@@ -1,0 +1,55 @@
+*{
+     background-color: rgb(96, 96, 153);
+}
+div{
+    border: 1px solid rgb(44, 44, 65);
+    width: fit-content;
+    margin: auto;
+    margin-top: 7%;
+    background-color: rgb(42, 42, 86);
+    box-shadow: -5px -5px 12px rgb(32, 32, 66),
+    5px 5px 12px rgb(32, 32, 66);
+                border-radius: 30px;
+}
+input{
+   margin-bottom: 20%;
+   
+   margin-left:105%;
+    height: 75px;
+    width: 235px;
+    background-color: rgb(42, 42, 86);
+    box-shadow: -5px -5px 12px rgb(32, 32, 66),
+                5px 5px 12px rgb(32, 32, 66);
+    border: none;
+    border-radius: 30px;
+    color: gray;
+    font-size: 50px;
+    text-align:end;
+    margin: auto;
+    margin-top: 40px;
+    margin-top: 30px;
+    padding: 20px;
+}
+button{
+ 
+    height: 48px;
+    width: 55px;
+    background-color: rgb(42, 42, 86);
+    box-shadow: -5px -5px 12px rgb(32, 32, 66),
+                5px 5px 12px rgb(32, 32, 66);
+    border: none;
+    border-radius: 50%;
+    margin: 8px;
+    font-size: 16px;
+    color: white;
+}
+#clbtn{
+    background-color: orange;
+    box-shadow: -5px -5px 12px rgb(238, 174, 105),
+    5px 5px 12px rgb(238, 174, 105);
+}
+#equalbtn{
+    background-color: orange;
+    box-shadow: -5px -5px 12px rgb(247, 189, 189),
+    5px 5px 12px rgb(223, 180, 180);
+}
